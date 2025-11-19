@@ -36,11 +36,11 @@ class NewsEntry {
         title: json["title"],
         content: json["content"],
         category: json["category"],
-        thumbnail: json["thumbnail"],
+        thumbnail: json["thumbnail"] ?? "",
         newsViews: json["news_views"],
         createdAt: DateTime.parse(json["created_at"]),
         isFeatured: json["is_featured"],
-        userId: json["user_id"],
+        userId: json["user_id"] ?? "",
     );
 
     Map<String, dynamic> toJson() => {
