@@ -4,7 +4,7 @@ A new Flutter project.
 [![Build Status](https://app.bitrise.io/app/db6b80fc-af32-4458-9990-62e27dc8ec20/status.svg?token=o7hDQrlSAq8KlTpuDdpwvA&branch=master)](https://app.bitrise.io/app/db6b80fc-af32-4458-9990-62e27dc8ec20)
 
 ## Download
-Download aplikasi versi terbaru: [Download APK](https://app.bitrise.io/app/db6b80fc-af32-4458-9990-62e27dc8ec20/installable-artifacts/89f13587db260a77/public-install-page/1f0044723b1e44a1890b509c6171104b)
+Download aplikasi versi terbaru: [Download APK](https://app.bitrise.io/app/db6b80fc-af32-4458-9990-62e27dc8ec20/installable-artifacts/ae5b282a13da8157/public-install-page/7f4fd26594747e0218300cf9a7577774)
 
 ## Getting Started
 
